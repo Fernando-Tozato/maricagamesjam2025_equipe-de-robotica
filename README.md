@@ -33,7 +33,7 @@ O Mumbuquinha iniciará uma jornada passando por lugares de Maricá, onde realiz
   - Sistema Operacional: Windows 10 ou superior.
 
 - Android:
-  Versão do Android 11 ou superior.
+  Versão do Android 12 ou superior.
 
 ---
 
